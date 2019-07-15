@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            TarNaja 2019
+            TarNaja 2019 - 2018
         </div>
     </form>
 </body>
